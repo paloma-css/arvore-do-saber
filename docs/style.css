@@ -1,0 +1,12 @@
+#background{
+    position: relative;
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+}
+
+#header{
+    font-size: larger;
+    background-color: #BDECB6;
+    opacity: 0.6;
+}
