@@ -1,0 +1,21 @@
+projeto: site para o clube de leitura Árvore do Saber
+
+o que o site fará:
+	-criar um cadastro;
+	-cada cadastro poderá registrar fichas de leitura;
+	-as fichas serão visíveis, em ordem alfabética, para todos os usuários/visitantes;
+
+dados para criação de cadastro:
+	-nome;
+	-e-mail;
+	-senha;
+
+dados da ficha de leitura:
+	-título;
+	-autor;
+	-data;
+	-resumo;
+
+design da página:
+
+fundo verde com icones de leitura (tons pastéis, sempre)
