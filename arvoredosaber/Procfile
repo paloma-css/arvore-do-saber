@@ -1,0 +1,1 @@
+web: gunicorn arvoredosaber.wsgi:django-reviews --log-file -
